@@ -11,6 +11,8 @@ Currently, two official plugins are available:
 # Usage
 ```bash
 npx install-peerdeps --dev eslint-config-airbnb
+pnpm install
+pnpm run dev
 ```
 
 # Docker Build 
